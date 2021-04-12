@@ -1,6 +1,6 @@
 ### Oii, Meu nome é Matheus Cardoso
 
-![](https://komarev.com/ghpvc/?username=JDouglasMendes)
+![](https://komarev.com/ghpvc/?username=SCMatheus)
 
 ### Onde me encontrar 👇🏼
 [ ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-cardoso-b378841a5/)
