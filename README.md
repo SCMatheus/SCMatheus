@@ -22,7 +22,7 @@
 ![azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
 ![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SCMatheus&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=SCMatheus&theme=onedark&title=MultiLanguage,Commit,Repositories,Followers)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SCMatheus&show_icons=true&theme=dark)
 
