@@ -10,6 +10,7 @@
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![.net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
+![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Matlab](https://img.shields.io/badge/Matlab-dd5535?style=flat&logo=matlab&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
