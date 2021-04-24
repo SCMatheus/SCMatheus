@@ -10,10 +10,10 @@
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![.net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
-![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Matlab](https://img.shields.io/badge/Matlab-dd5535?style=flat&logo=matlab&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
 ![Html5 Badge](https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white)
 ![Css3 Badge](https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white)
 ![GitBadge](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
